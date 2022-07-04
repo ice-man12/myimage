@@ -1,3 +1,3 @@
 # myimage
 myimage
-![image](https://github.com/ice-man12/myimage/raw/master/icons/bcar.jpg
+![](https://github.com/ice-man12/myimage/blob/main/icons/bcar.jpg）
